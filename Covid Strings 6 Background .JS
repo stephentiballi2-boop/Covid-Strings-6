@@ -44,7 +44,7 @@ if (mult == x*y)
 [non-concatenated]
 score+=ten
 else:
-Score-=ten
+score-=ten
 if(mult == x*y)
 [concatenated]
 score+=twenty
