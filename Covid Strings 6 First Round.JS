@@ -13,6 +13,15 @@ bracket
 matchup
 solid zero
 filename= covid strings 6 first round .js
+first round=(highest overall seed ,second highest seed third highest seed first middle seed, second middle seed,  third lowest seed ,second lowest seed,lowest overall seed)
+highest overall seed = 1 seed
+second highest seed=2 seed
+third highest seed=3 seed
+firstmiddleseed=4seed
+second middle seed = 5 seed
+third lowest seed= 6 seed
+second lowest seed = 7 seed
+lowest overall seed = 8 seed
 document.addeventlistener(domcontentloaded, () => {
 bracket =document.getelementbyid(bracket)
 teams=[magenta,burgundy,red,indigo,orange,green,black,white]
