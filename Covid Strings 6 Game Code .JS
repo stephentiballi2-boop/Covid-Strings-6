@@ -89,43 +89,43 @@ covidstrings6multiplechoicelist=[1:a snow b heart attacks c myocarditis d chili 
 19: a wishful thinking b american exceptionalism c people moving on from the lockdown d people with money to spend, 20: a yes b no]
 covidstrings6mathproblemslist=[there are currently five million vaccines that have been administered over the past two months starting in december twenty-twenty  if  the cdc says that there was a supply shortage of approximately one hundred fifty thousand doses would it be possible for one hundred million vaccines delivered by the end of may twenty-twenty one if a study showed that more racial minorities are more likely not only to mistrust getting treated but also sixty percent more likely to have complications from covid what could be done policy-wise to deal with this issue?,if the one hundred fifty thousand missing vaccines have been found how much is the new supply and can bidens goal be reached?,if the white house covid advisory board says that production needs to increase to twenty million vaccines per month to meet the goal how many more vaccines are needed?,if there eventually was a surplus of one hundred thousand vaccines what should the biden administrations strategy be?
 if+one+study+showed+that+taylor+swift+was+the+covid+economy+savoir+due+to+the+three hundred+percent+increase+how+much+money+would+be+gained+if+the+us
-+economy+had+threehundred+trillion+dollars+before?,if+the+same+study+found+that+afterwards+there+was+a+fifty+percent+decrease+how+much+would+the+us+economy+lose? ,IF+A+Poll+Found+That+FIFTY TWO+Percent+Of+People+Think+That+There+Is+No+Evidence+Supporting+The+Idea+That+Vaccines+Cause+Heart+Problems+What+Percent+Do?,If+TWENTY EIGHT+Percent+Say+That+They+Believe+It+Causes+Heart+Problems+Because+They+Read+Something+Online+What+Is+The+Remaining+Percent,If+THIRTY SIX+Percent+Of+Nos+Strongly+Believe+Theres+No+Evidence+For+Covid+And+Myocarditis+What+Percent+Are+Mild?, If+The+TWENTY EIGHT+Percent+Of+Nos+Are+Open+To+Changing+Their+Mind+What+Would+The+New+Yes+Percent+Be?]
-CovidStrings6SentenceList=[It Is Statistically Improbable That Anyone Would Get Myocarditis From A Covid Vaccine, The Post Covid Economy Growing Is One Good Sign Of American Exceptionalism,Racism+Should+Not+Be+An+Excuse+To+Ignore+Long+Covid+With+Minorities Chili+Dogs+Have+No+Relation+To+Myocarditis  ]
-String.Split   
-Arrays.AsList(List<String>)
-For (String Ss:Arr){
-System.OutprintIn(Ss)
-Import Java Util.Scanner
-Import Java.Util
-Questions[]Questions={
-Collections.Shuffle(Arrays.Aslist(Questions)
-Question.Bonus1=(Would+The+Meaning+Of+The+Sentence+Change+If+The+Term+Post+Covid+Was+Removed)
-If Math Problem== X Percent:
-Subtract Exact From ONE HUNDRED
-If Math Problem== Margin Of Error:
-Add And Subtract Exact 
-Else:
-Remain Constant
-Userin.Select Team
-Import Meta.
-Class MyClass
-constructor (Non-Concatenated)
-Return Category
-If Category==Math Problem:
-Type Answer
-Else:
-Select from Multiple Choice
-Constmyclass=new.Myclass(Concatenated)
-Return Category
-If Category==Math Problem:
-Type Answer
-Else:
-Select From Multiple Choice
-Import Syntax 
-Substring(Start,End)
-Userin.Multiple Choice
-If SelectedAnswer==Correct Answer:
-Return True
-Else:
-Return False
-return FileName
++economy+had+threehundred+trillion+dollars+before?,if+the+same+study+found+that+afterwards+there+was+a+fifty+percent+decrease+how+much+would+the+us+economy+lose?,if+a+poll+found+that+fifty two+percent+of+people+think+that+there+is+no+evidence+supporting+the+idea+that+vaccines+cause+heart+problems+what+percent+do?,if+twenty-eight+percent+say+that+they+believe+it+causes+heart+problems+because+they+read+something+online+what+is+the+remaining+percent,if+thirty-six+percent+of+nos+strongly+believe+theres+no+evidence+for+covid+and+myocarditis+what+percent+are+mild?,if+the+twenty-eight+percent+of+nos+are+open+to+changing+their+mind+what+would+the+new+yes+percent+be?]
+covidstrings6sentencelist=[it is statistically improbable that anyone would get myocarditis from a covid vaccine, the post covid economy growing is one good sign of american exceptionalism,racism+should+not+be+an+excuse+to+ignore+long+covid+with+minorities chili+dogs+have+no+relation+to+myocarditis  ]
+string.split   
+arrays.aslist(list<string>)
+for (string ss:arr){
+system.outprintin(ss)
+java util.scanner
+java.util
+questions[]questions={
+collections.shuffle(arrays.aslist(questions)
+question.bonus1=(would+the+meaning+of+the+sentence+change+if+the+term+post+covid+was+removed)
+if math problem== x percent:
+subtract exact from one hundred
+if math problem== margin of error:
+add and subtract exact 
+else:
+remain constant
+userin.select team
+import meta.
+class myclass
+constructor (non-concatenated)
+return category
+if category==math problem:
+type answer
+else:
+select from multiple choice
+constmyclass=new.myclass(concatenated)
+return category
+if category==math problem:
+type answer
+else:
+select from multiple choice
+import syntax 
+substring(start,end)
+userin.multiple choice
+if selectedanswer==correct answer:
+return true
+else:
+return false
+return filename
