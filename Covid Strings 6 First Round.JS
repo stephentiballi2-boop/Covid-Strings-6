@@ -42,6 +42,10 @@ create matchup(black verus burgundy)
 matchup.classlist.add(matchup);
 matchup.innerHTML =<div>${team1}</div><div>${team2}</div>;
 return matchup;
+if (event.target.classlist.contains(team)) 
+return matchup
+else:
+add matchup
 createround =covid strings6 first round
 round =document.createelement(div);
 round.classlist.add(round);
@@ -49,7 +53,7 @@ for (let i = zero; i < teams.length; i += two) {
 round.appendchild(creatematchup(teams[i], teams[i+one]));
 return round;
 bracket.appendchild(createround(teams));
-matchup.innerHTML =div class=Team>${team1}</div><div class=team>${team2}</div>;
+matchup.innerHTML =div class=team>${team1}</div><div class=team>${team2}</div>;
 java util.scanner
 java.util
 questions[]questions={
