@@ -19,7 +19,7 @@ this add (panel,center )
 jpanel button panel=
 new j panel (flowlayout.center)
 buttonpanel.add(randombutton);
-random.button add actionlistener(new action listener(){
+random.button add actionlistener(new action listener)
 override 
 public void actionperformed(actionevent e){
 random r= newrandom();
