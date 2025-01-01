@@ -21,7 +21,7 @@ new j panel (flowlayout.center)
 buttonpanel.add(randombutton);
 random.button add actionlistener(new action listener)
 override 
-public void actionperformed(actionevent e){
+public actionperformed(actionevent e){
 random r= newrandom();
 colorpanel.setbackground(rnextint(thirteen),)(rnextint(thirteen),)(rnextint(thirteen),)(rnextint(thirteen),)(rnextint(thirteen),)(rnextint(thirteen),)(rnextint(thirteen),(rnextint(thirteen)),(rnextint(thirteen))), (rnextint(thirteen)), (rnextint(thirteen)),(rnextint(thirteen)))
 num teams
