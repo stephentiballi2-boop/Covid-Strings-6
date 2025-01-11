@@ -6,16 +6,16 @@ thisimg=document.createelement(covid)
 img.src=http://www.google.com/intl/en_com/images/logo_plain.png
 src=document getelementbyid(header)
 src.appendchild(this.img)
-<div id=header></div>
-audio=new audio (audio_file mp3)
+div id=header/div
+audio=new audio(audio_file mp3)
 audio.play 
-jbutton random button
-new jbutton (set random color)
+random button
+new button (set random color)
 private final j button option button=
-new j button (change color)
-public fun with graphics(){
-jpanel color panel=new j panel();
-this add (panel,center )
+new  button (change color)
+public fun with graphics()
+color panel=new j panel();
+add (panel,center )
 jpanel button panel=
 new j panel (flowlayout.center)
 buttonpanel.add(randombutton);
@@ -34,12 +34,12 @@ teamsgrouping=(rnextint8)(rnextint8)(rnextint8)(rnextint8)(rnextint8)(rnextint8)
 buttonpanel.add(optionbutton);
 optionbutton.add actionlistener(new action listener(){
 override 
-public void actionperformed(actionevent e){
+public actionperformed(actionevent e){
 color m=jcolorchooser.showdialog(funwithgraphics.this,))
 if(multi!=null)
 color panel set.background(multi)
 this.add(buttonpanel,borderlayout.south)
-public static void main(string [] args){
+public static main(string [] args){
 jframe f = new covid strings6()
 f.set title(covid strings6)
 f.set default closeoperation(jframe.exit_on_close);
@@ -58,18 +58,18 @@ score+=twenty
 else:
 score-=twenty
 lblscore=document.getelementbyid(lblScore)
-lbl.score.innerHTML=score
+lbl.score.inner html=score
 private j button next  button=new jbutton(next)
 nextbutton add.actionlistener(this)
-public void actionperformed(action event e) 
+public actionperformed(action event e) 
 system.out print.in (next button clicked)
 frame.add(next button);
 frame set visible true
 object {a :one,b :two, c:three, d:four, e:five, f:six, g: seven , h: eight}
 object keys(team)
 objectentries(obj);
-value object [team color]
-covidstringsteamlist6= [magenta,burgundy,red,indigo,orange,green,black,white]
+value object=[team color]
+covidstringsteamlist6= [magenta magnetizers,burgundy rebuilders,red protein spikers,indigo isos,orange rna messengers,green peacemakers ,black night riders,white transit angels]
 covidstringsphraselist6=[non-concatenated myocarditis does have serious implications given there is some relationship with covid
 however new research says that among college athletes myocarditis is not related to covid
 the very rare instances of vaccinated people getting myocarditis should not deter vaccination
@@ -122,7 +122,7 @@ if category==math problem:
 type answer
 else:
 select from multiple choice
-constmyclass=new.myclass(concatenated)
+myclass=new.myclass(concatenated)
 return category
 if category==math problem:
 type answer
@@ -139,7 +139,7 @@ answer checker
 scanner=new scanner(system.in)
 string correct answer
 string useranswer=scanner.nextline()
-if useranswer.equals((correctanswer))
+if useranswer.equals(correctanswer)
 system.out.print.in(correct)
 else:
 system.out.printin(incorrect)
@@ -149,4 +149,8 @@ if winner==true:
 log(the winner is)
 if winner==false:
 log(no winner yet)
+if users team wins covid strings6 
+console log users team wins covid strings6 
+else
+return game over
 return filename
