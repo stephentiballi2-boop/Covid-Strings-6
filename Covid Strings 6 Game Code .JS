@@ -106,7 +106,7 @@ java util.scanner
 java.util
 questions[]questions={
 collections.shuffle(arrays.aslist(questions)
-question.bonus1=(would+the+meaning+of+the+sentence+change+"if"+"the"+"term"+"post"+"covid"+"was"+"removed")
+question.bonus1=("would"+"the"+"meaning"+"of"+"the"+"sentence"+"change"+"if"+"the"+"term"+"post"+"covid"+"was"+"removed")
 if math problem== x percent:
 subtract exact from one hundred
 if math problem== margin of error:
