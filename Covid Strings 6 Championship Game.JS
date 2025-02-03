@@ -5,6 +5,15 @@ head
 utf8
 viewport content=width=device-width, initial-scale=one
 title covidstrings 6 championship bracket
+div id bracket class bracket div
+script src bracket.js
+head
+body
+bracket-container{}
+matchup
+solid zero;
+padding 
+text align center 
 filename=covidstrings6 championship game .js
 championship game=(highest and lowest remaining seeds ) 
 team low seed = lowest remaining seed
