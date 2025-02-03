@@ -3,9 +3,11 @@ script
 html 
 head
 utf eight
-viewport content=width=device-width, initial-scale=one>
+viewport content=width=device-width, initial-scale=one
 title covid strings6 first round bracket 
-style
+div id bracket class bracket div
+script src bracket.js
+link rel= stylesheet href=css
 head
 body
 html
