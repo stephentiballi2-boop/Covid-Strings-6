@@ -27,20 +27,20 @@ lowest overall seed = 8 seed
 document.addeventlistener(domcontentloaded, () => {
 bracket =document.getelementbyid(bracket)
 teams=[magenta,burgundy,red,indigo,orange,green,black,white]
-creatematchup(green versus red )
+matchup1=(green versus red )
 matchup =document.createelement(div);
 matchup.classlist.add(matchup);
-matchup.innerHTML =<div>${team1}</div><div>${team2}</div>;
+matchup.inner html =<div>${team1}</div><div>${team2}</div>;
 return matchup;
-create matchup(white versus magenta magnetizers)
+matchup2=(white versus magenta magnetizers)
 matchup.classlist.add(matchup);
-matchup.innerHTML = <div>${team1}</div><div>${team2}</div>;
+matchup.inner html = <div>${team1}</div><div>${team2}</div>;
 return matchup;
-create matchup(indigo versus orange)
+matchup3=(indigo versus orange)
 matchup.classlist.add(matchup);
-matchup.innerHTML =<div>${team1}</div><div>${team2}</div>;
+matchup.inner html =<div>${team1}</div><div>${team2}</div>;
 return matchup;
-create matchup(black verus burgundy)
+matchup4=(black verus burgundy)
 matchup.classlist.add(matchup);
 matchup.innerHTML =<div>${team1}</div><div>${team2}</div>;
 return matchup;
@@ -55,7 +55,7 @@ for (let i = zero; i < teams.length; i += two) {
 round.appendchild(creatematchup(teams[i], teams[i+one]));
 return round;
 bracket.appendchild(createround(teams));
-matchup.innerHTML =div class=team>${team1}</div><div class=team>${team2}</div>;
+matchup.inner html =div class=team>${team1}</div><div class=team>${team2}</div>;
 java util.scanner
 java.util
 questions[]questions={
@@ -81,23 +81,23 @@ question18
 team.addeventlistener(click, () => {
 team.classlist.toggle(selected)
 advancingteams=(currentteams)
-result=declarewinner(team1 score, team2 score)
-if red score>=fourty:
+result=declarewinner(matchup1)
+if red score>=forty:
 console.log(red protein spikers win)
 else:
 console.log(green peacemakers win)
-result= declarewinner(team1 score, team2 score)
-if magenta score>=fourty:
+result=declarewinner(matchup2)
+if magenta score>=forty:
 console.log(magenta magnetizers win)
 else:
 console.log(white transit angels win)
-result=declarewinner(team1 score, team2 score)
-if orange score>=fourty:
+result=declarewinner(matchup3)
+if orange score>=forty:
 console.log(orange rna messengers win)
 else:
 console.log(indigo isos win)
-result=declarewinner(team1 score, team2 score)
-if burgundy score>=fourty:
+result=declarewinner(matchup4)
+if burgundy score>=forty:
 console.log(burgundy rebuilders win)
 else:
 console.log(black night riders win)
