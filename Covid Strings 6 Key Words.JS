@@ -1,38 +1,38 @@
-<doc.type.html>
-<script>
-Filename=Covid Strings 6 Keyowrds.JS
-Covid Strings 6 Key Word List=[Relationship With Covid, Bounces Back, Myocarditis Not Related To Covid,Some Exceptions,5 Million/2-150,000*3,+150,000, 300 Trillion*3,Days,Effects,China,Economy Miraculous,Stand Out, Beyonce Themselves, Even If True, Confusion,+100,000,Racism Minorities ]
-String=””
-For String In Covid Strings Search Word List
-Select Characters
-Edit Diffuse Property
-Desired Color=Green
-Covid Strings6 Reference List=[A:Association Between COVID-19 And Myocarditis Using Hospital-Based Administrative Data  United States, March 2020 January 2021 | MMWR (Cdc.Gov),B: US Economic Recovery After COVID-19 | McKinsey,C:New Study Finds No Link Between Covid And Sudden Cardiac Deaths In College Athletes (Forbes.Com),D: A Most Unusual Recovery: How The US Rebound From COVID Differs From Rest Of G7 | Brookings, E: Biden Outlines COVID-19 Vaccine Goal: 100 Million Shots In 100 Days | Reuters, F:Remarks By President Biden On The 100 Million Shot Goal | The White House, G: The Federal Reserve Says Taylor Swifts Eras Tour Boosted The Economy. One Market Research Firm Estimates She Could Add $5 Billion - CBS News, H: Covid Vaccine: Biden To Hit Goal Of 100 Million Shots In First 100 Days (Cnbc.Com), I: COVID-19: Long-term effects - Mayo Clinic, J: Chinese Economic Meltdown Sparks Panic As Almost $1 Trn Wiped Off Stock Market (Msn.Com), K: Whats Gone Wrong With Chinas Economy | CNN Business,L: The US Economy Is Back On Track After COVID-19 Dip |:  World Economic Forum (Weforum.Org),M: Ten Facts About COVID-19 And The U.S. Economy | Brookings, N: The Taylor Swift Economy Is A Post-Covid Myth - Bloomberg, O: Taylor Swift And Beyonce Wont Prop Up The US Economy Much Longer (Businessinsider.Com),P:US Election Results: Five Reasons Biden Won (Bbc.Com), 
-Q:RTO? WFH? Why Post-Covid Work Norms Are So Confusing: QuickTake - Bloomberg,R: A Look At How President Biden Has Handled The Pandemic Through His 1St Year In Office : NPR, S: Study Finds BIPOC Individuals Bear Greater Post-COVID Burdens (Msn.Com)]
-Asset=This App.Assets.Find()
-Template Asset Resource 
-Entity Template Instanite
-Entity Script Foobar =This Entity
-Entity Reparnet (This.Entity)
-A =Pc.CreateScript(A);
-A.Attributes.Add(Foobar,{Type:Entity});
-A.Prototype.Initialize =Function() {
-Console.Log(This.Foobar.Name);
-Asset=This App.Assets.Find()
-Template Asset Resource 
-Entity Template Instanite
-Entity Script Foobar =This Entity
-Entity Reparnet (This.Entity)
-B=Pc.CreateScript(B);
-B.Attributes.Add(Foobar,{Type:Entity});
-B.Prototype.Initialize =Function() {
-Console.Log(This.Foobar.Name);
-Asset=This App.Assets.Find()
-Template Asset Resource 
-Entity Template Instanite
-Entity Script Foobar =This Entity
-Entity Reparnet (This.Entity)
-C=Pc.CreateScript(C);
+doc.type.html
+script
+filename=covid strings 6 key words.js
+covid strings 6 key word list=[relationship with covid,bounces back,myocarditis not related to covid,some exceptions,5 million/2-150,000*3,+150,000, 300 trillion*3,days,effects,china,economy miraculous,stand out,beyonce themselves,even if true,confusion,+100,000,racism minorities ]
+string=””
+for string in covid strings search word list
+select characters
+edit diffuse property
+desired color=green
+covid strings6 reference list=[a:association between covid-19 and myocarditis using hospital-based administrative data united states,march 2020 january 2021 |mmwr (cdc.gov),b:us economic recovery after covid-19 |mckinsey,c:new study finds no link between covid and sudden cardiac deaths in college athletes (forbes.com),d:a most unusual recovery:how the us rebound from covid differs from rest of g7|brookings,e:biden outlines covid-19 vaccine goal:100 million shots in 100 days|reuters,f:remarks by president biden on the 100 million shot goal |the white house,g:the federal reserve says taylor swifts eras tour boosted the economy.one market research firm estimates she could add $5 billion - cbs news, h:covid vaccine:biden to hit goal of 100 million shots in first 100 days (cnbc.com),i:covid-19:long-term effects -mayo clinic,j:chinese economic meltdown sparks panic as almost $1 trn wiped off stock market (msn.com),k:whats gone wrong with chinas economy|cnn business,l:the us economy is back on track after covid-19 dip |:world economic forum (weforum.org),m:ten facts about covid-19 and the u.s. economy |brookings,n:the taylor swift economy is a post-covid myth -bloomberg,o:taylor swift and beyonce wont prop up the us economy much longer (businessinsider.com),p:us election results: five reasons biden won (bbc.com), 
+q:rto? wfh?why post-covid work norms are so confusing:quick take -bloomberg,r:a look at how president biden has handled the pandemic through his 1st year in office : npr,s:study finds biopic individuals bear greater post-covid burdens(msn.com)]
+asset=this app.assets.find()
+template asset resource 
+entity template instanite
+entity script foobar =this entity
+entity reparnet (this.entity)
+a=pc.create script(a);
+a.attributes.add(foobar,{type:entity});
+a.prototype.initialize=function()
+console.log(this.foobar.name);
+asset=this app.assets.find()
+template asset resource 
+entity template instantiate
+entity script foobar=this entity
+entity reparnet (this.entity)
+b=pc.createScript(b);
+b.attributes.add(foobar,{type:entity});
+b.prototype.initialize=function() 
+console.log(this.foobar.name);
+asset=this app.assets.find()
+template asset resource 
+entity template instantiate
+entity script foobar =this entity
+entity reparnet (this.entity)
+c=pc.create script(c);
 C.Attributes.Add(Foobar,{Type:Entity});
 C.Prototype.Initialize =Function() {
 Console.Log(This.Foobar.Name);
