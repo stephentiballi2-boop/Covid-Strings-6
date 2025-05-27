@@ -83,9 +83,12 @@ round.appendchild(creatematchup(teams[i], teams[i+one]));
 return round;
 bracket.appendchild(createround(teams));
 matchup.inner html =div class=team>${team1}</div><div class=team>${team2}</div>;
+<header.html>
+first round questions
+the questions asked in the first round of the covid strings contest
 java util.scanner
 java.util
-questions[]questions={
+first round questions=questions[1-18]
 collections.shuffle(arrays.aslist(questions)
 question1
 question2
@@ -105,27 +108,81 @@ question15
 question16
 question17
 question18 
+if selectedanswer==correct:
+return true
+else:
+return false
+if selectedanswer=incorrect
+return false
+else:
+return true
+team1=lower ranked seed
+team2=The Higher seeded opponent
+points: 10 points or 20 points
+<subheading.html>
+team stealing
+steal points(stealingteam,victimteam,pointstosteal)
+if(victimteam.points>=pointtosteal)
+victimteam.points-=pointtosteal;
+stealingteampoints+=pointstosteal
+console.log([stealingteam.name}stole points from {victim team name}!)
+else:
+console.log({victimteam.name}doesnt have enough points to steal)
+if teams final answer==incorrect:
+opposing team steals
+else:
+change covid strings matchup score
 team.addeventlistener(click, () => {
 team.classlist.toggle(selected)
+<header.html>
+advancing rounds
+contains criteria required for a team to advance to the second round 
 advancingteams=(currentteams)
+<subheading.html>
+result for matchup1 
+the code for how to determine the end result of matchup1 of covid strings 
 result=declarewinner(matchup1)
 if red score>=forty:
 console.log(red protein spikers win)
 else:
+if green score>=forty:
 console.log(green peacemakers win)
+else:
+remain
+<subheading.html>
+result for matchup2 
+the code for how to determine the end result of matchup2 of covid strings 
 result=declarewinner(matchup2)
 if magenta score>=forty:
 console.log(magenta magnetizers win)
 else:
+remain
+if white score>=forty:
 console.log(white transit angels win)
+else:
+remain
+<subheading.html>
+result for matchup3 
+the code for how to determine the end result of matchup3 of covid strings 
 result=declarewinner(matchup3)
 if orange score>=forty:
 console.log(orange rna messengers win)
 else:
+remain
+if indigo score>=forty:
 console.log(indigo isos win)
+else:
+remain
+<subheading.html>
+result for matchup4 
+the code for how to determine the end result of matchup4 of covid strings 
 result=declarewinner(matchup4)
 if burgundy score>=forty:
 console.log(burgundy rebuilders win)
 else:
+remain
+if black score>=forty:
 console.log(black night riders win)
+else:
+remain
 return filename
