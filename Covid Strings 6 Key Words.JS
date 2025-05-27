@@ -1,17 +1,41 @@
 doc.type.html
+html lang en 
 script
+header=document create.element(header)
+header.style.backgroundcolor=#4caf50
+header.style.color=’white’
+header.style.padding=’10px’
+header.style.textalign=’center’
+header.style.text.fontsize=’24px’
+header.textcontent=’welcome to covid strings6’
+document appendchild(header)
+<header.html>
+heading variables 
+the heading numbers that determine where each heading and subheading go 
+heading1=keywords
+heading2=online references
+heading3=script templates
 filename=covid strings 6 key words.js
+<header.html>
+keywords
+key search words for covid strings6
 covid strings 6 key word list=[relationship with covid,bounces back,myocarditis not related to covid,some exceptions,5 million/2-150,000*3,+150,000, 300 trillion*3,days,effects,china,economy miraculous,stand out,beyonce themselves,even if true,confusion,+100,000,racism minorities ]
 string=””
 for string in covid strings search word list
 select characters
 edit diffuse property
 desired color=green
+<header.html>
+online references 
+links to articles that correspond to phrases in covid strings6
 covid strings6 reference list=[a:association between covid-19 and myocarditis using hospital-based administrative data united states,march 2020 january 2021 |mmwr (cdc.gov),b:us economic recovery after covid-19 |mckinsey,c:new study finds no link between covid and sudden cardiac deaths in college athletes (forbes.com),d:a most unusual recovery:how the us rebound from covid differs from rest of g7|brookings,e:biden outlines covid-19 vaccine goal:100 million shots in 100 days|reuters,f:remarks by president biden on the 100 million shot goal |the white house,g:the federal reserve says taylor swifts eras tour boosted the economy.one market research firm estimates she could add $5 billion - cbs news, h:covid vaccine:biden to hit goal of 100 million shots in first 100 days (cnbc.com),i:covid-19:long-term effects -mayo clinic,j:chinese economic meltdown sparks panic as almost $1 trn wiped off stock market (msn.com),k:whats gone wrong with chinas economy|cnn business,l:the us economy is back on track after covid-19 dip |:world economic forum (weforum.org),m:ten facts about covid-19 and the u.s. economy |brookings,n:the taylor swift economy is a post-covid myth -bloomberg,o:taylor swift and beyonce wont prop up the us economy much longer (businessinsider.com),p:us election results: five reasons biden won (bbc.com), 
 q:rto? wfh?why post-covid work norms are so confusing:quick take -bloomberg,r:a look at how president biden has handled the pandemic through his 1st year in office : npr,s:study finds biopic individuals bear greater post-covid burdens(msn.com)]
+<header.html>
+script templates
+code for accessing the references
 asset=this app.assets.find()
 template asset resource 
-entity template instanite
+entity template instantiate
 entity script foobar =this entity
 entity reparnet (this.entity)
 a=pc.create script(a);
@@ -119,7 +143,7 @@ l.prototype.initialize=function()
 console.log(this.foobar.name);
 asset=this app.assets.find()
 template asset resource 
-entity template instanite
+entity template instantiate
 entity script foobar=this entity
 entity reparnet (this.entity)
 m=pc.create script(m);
@@ -164,7 +188,7 @@ r.prototype.initialize=function()
 console.log(this.foobar.name);
 asset=this app.assets.find()
 template asset resource 
-entity template instanite
+entity template instantiate
 entity script foobar =this entity
 entity reparnet (this.entity)
 s=pc.create script(s);
