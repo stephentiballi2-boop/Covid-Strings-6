@@ -1,5 +1,29 @@
 doc.type html
+html lang en
 script
+header=document create.element(header)
+header.style.backgroundcolor=#4caf50
+header.style.color=’white’
+header.style.padding=’10px’
+header.style.textalign=’center’
+header.style.text.fontSize=’24px’
+header.textcontent=’welcome to covid strings6 first round’
+document appendchild(header)
+<header.html>
+heading variables 
+the heading numbers that determine where each heading and subheading go 
+heading1=first round overview
+heading2=matchups
+heading3=first round questions
+heading4=advancing rounds
+subheading1=team stealing
+subheading2=result for matchup1
+subheading3=result for matchup2
+subheading4=result for matchup3
+subheading5=result for matchup4
+<header.html>
+first round overview
+an overview of the first round of covid strings6 includes seeding 
 html 
 head
 utf eight
@@ -24,9 +48,12 @@ second middle seed = 5 seed
 third lowest seed= 6 seed
 second lowest seed = 7 seed
 lowest overall seed = 8 seed
-document.addeventlistener(domcontentloaded, () => {
+document.addeventlistener(domcontentloaded,() => 
 bracket =document.getelementbyid(bracket)
-teams=[magenta,burgundy,red,indigo,orange,green,black,white]
+covid strings 6 teams=[magenta,burgundy,red,indigo,orange,green,black,white]
+<header.html>
+matchups 
+for first round there are 8 teams which equals 4 matchups 
 matchup1=(green versus red )
 matchup =document.createelement(div);
 matchup.classlist.add(matchup);
