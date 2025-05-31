@@ -300,7 +300,7 @@ if users team wins covid strings6
 console log users team wins covid strings6 
 else:
 remain
-If users team loses covid strings6
+if users team loses covid strings6
 return game over
 else:
 remain
