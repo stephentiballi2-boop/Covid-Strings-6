@@ -20,8 +20,17 @@ filename=covid strings 6 key words.js
 keywords
 key search words for covid strings6
 covid strings 6 key word list=[relationship with covid,bounces back,myocarditis not related to covid,some exceptions,5 million/2-150,000*3,+150,000, 300 trillion*3,days,effects,china,economy miraculous,stand out,beyonce themselves,even if true,confusion,+100,000,racism minorities ]
+string manager non-concatenated
+insert string(entity,string)
+entity.element.text=string
+string manager insert string
 string=””
-for string in covid strings search word list
+string manager concatenated
+insert string(entity,string)
+entity.element.text=string
+string manager insert string
+string=””
+for string in covid strings key word list
 select characters
 edit diffuse property
 desired color=green
