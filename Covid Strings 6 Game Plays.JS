@@ -257,4 +257,476 @@ if user prompt covid strings team thought box ==correct answer
 return answer 
 else
 check answer
+<sub heading.html>
+magenta box
+thought box for magenta magnetizers 
+<doc type.html>
+<html lang “en”>
+<head>
+utf8
+“viewport” content=width device-width initial scale 1.0
+<title> thought box /<title>
+<style>
+body{
+font family arial sans serif
+display:flex
+justify content:center
+align items:center
+height 100vh;
+background-color:f0f0f0
+thought box 
+background color fff
+padding 20px
+border radius 10px
+box-shadow 00 10px rgba(0,0,0,0.1);
+display 
+width 300px
+text align center
+thought box input 
+width 80%
+padding:10px;
+margin-bottom:10px;
+border:1px solid ccc
+border-radius 5px
+thought box button
+padding 10px, 20px
+border-radius 5px
+background color 007bff
+color:fff
+cursor:pointer;
+thought box hover button
+background color 0056b3
+thought display 
+margin-top 20px;
+font-size 1.2em
+color 333
+<style/>
+</head>
+<body>
+<div class= “thought box”
+input type= “text” id=”thought input” 
+click on button display thought>submit</button>
+div class thought display id=”thought display
+</div>
+<script>
+display thought
+thought input=document.get element by id (‘thought input).value
+thought display=document.get element by id(‘thought display‘)
+thought display.text content=thought input 
+<script>
+</body>
+</html>
+<sub heading.html>
+burugndy thought box
+thought box for burgundy rebuilders
+<doc type.html>
+<html lang “en”>
+<head>
+utf8
+“viewport” content=width device-width initial scale 1.0
+<title> thought box /<title>
+<style>
+body{
+font family arial sans serif
+display:flex
+justify content:center
+align items:center
+height 100vh;
+background-color:f0f0f0
+thought box 
+background color fff
+padding 20px
+border radius 10px
+box-shadow 00 10px rgba(0,0,0,0.1);
+display 
+width 300px
+text align center
+thought box input 
+width 80%
+padding:10px;
+margin-bottom:10px;
+border:1px solid ccc
+border-radius 5px
+thought box button
+padding 10px, 20px
+border-radius 5px
+background color 007bff
+color:fff
+cursor:pointer;
+thought box hover button
+background color 0056b3
+thought display 
+margin-top 20px;
+font-size 1.2em
+color 333
+<style/>
+</head>
+<body>
+<div class= “thought box”
+input type= “text” id=”thought input” 
+click on button display thought>submit</button>
+div class thought display id=”thought display
+</div>
+<script>
+display thought
+thought input=document.get element by id (‘thought input).value
+thought display=document.get element by id(‘thought display’)
+thought display.text content= thought input
+<script>
+</body>
+</html>
+<sub heading.html>
+red thought box
+thought box for red protein spikers
+<doc type.html>
+<html lang “en”>
+<head>
+utf8
+“viewport” content=width device-width initial scale 1.0
+<title> thought box /<title>
+<style>
+body{
+font family arial sans serif
+display:flex
+justify content:center
+align items:center
+height 100vh;
+background-color:f0f0f0
+thought box 
+background color fff
+padding 20px
+border radius 10px
+box-shadow 00 10px rgba(0,0,0,0.1);
+display 
+width 300px
+text align center
+thought box input
+width 80%
+padding:10px;
+margin-bottom:10px;
+border:1px solid ccc
+border-radius 5px
+thought box button
+padding 10px, 20px
+border-radius 5px
+background color 007bff
+color:fff
+cursor: pointer;
+thought box hover button
+background color 0056b3
+thought display 
+margin-top 20px;
+font-size 1.2em
+color 333
+<style/>
+</head>
+<body>
+<div class= “thought box”
+input type= “text” id=”thought input” 
+click on button display thought>submit</button>
+div class thought display id=”thought display
+</div>
+<script>
+display thought
+thought input=document.get element by id (‘thought input).value
+thought display=document.get element by id(‘thought display’)
+thought display.text content=thought input 
+<script>
+</body>
+</html>
+<sub heading.html>
+orange thought box
+thought box for orange rna messengers
+<doc type.html>
+<html lang “en”>
+<head>
+utf8
+“viewport” content=width device -width initial  1.0
+<title> thought box /<title>
+<style>
+body{
+font family arial sans serif
+display:flex
+justify content:center
+align items:center
+height 100vh;
+background-color:f0f0f0
+thought box 
+background color fff
+padding 20px
+border radius 10px
+box-shadow 00 10px rgba(0,0,0,0.1);
+display
+width 300px
+text align center
+thought box input 
+width 80%
+padding:10px;
+margin-bottom:10px;
+border:1px solid ccc
+border-radius 5px
+thought box button
+padding 10px, 20px
+border-radius 5px
+background color 007bff
+color:fff
+cursor:pointer;
+thought box hover button
+background color 0056b3
+thought display 
+margin-top 20px;
+font-size 1.2em
+color 333
+<style/>
+</head>
+<body>
+<div class= “thought box”
+input type= “text” id=”thought input” 
+click on button display thought>submit</button>
+div class thought display id=”thought display
+</div>
+<script>
+display thought
+thought input=document. get element by id (‘thought  input) .value
+thought display=document.get element by id(‘thought display’)
+thought display.text content= thought input
+<script>
+</body>
+</html>
+<sub heading.html>
+indigo thought box
+thought box for indigo isos
+<doc type.html>
+<html lang “en”>
+<head>
+utf8
+“viewport” content=width device-width initial scale 1.0
+<title> thought box /<title>
+<style>
+body{
+font family arial sans serif
+display:flex
+justify content:center
+align items:center
+height 100vh;
+background-color:f0f0f0
+thought box 
+background color fff
+padding 20px
+border radius 10px
+box-shadow 00 10px rgba(0,0,0,0.1);
+display
+width 300px
+text align center
+thought box input 
+width  80%
+padding:10px;
+margin-bottom:10px;
+border: 1px solid ccc
+border-radius 5px
+thought box button
+padding 10px, 20px
+border-radius 5px
+background color 007bff
+color:fff
+cursor:pointer;
+thought box hover button
+background color 0056b3
+thought display 
+margin-top 20px;
+font-size 1.2em
+color 333
+<style/>
+</head>
+<body>
+<div class= “thought box”
+input type= “text” id=”thought input” 
+click on button display thought>submit</button>
+div class thought display id=”thought display
+</div>
+<script>
+display thought
+thought input=document.get element by id (‘thought input).value
+thought display=document.get element by id(‘thought display’)
+thought display.text content=thought input 
+<script>
+</body>
+</html>
+<sub heading.html>
+green thought box
+thought box for green peacemakers
+<doc type.html>
+<html lang “en”>
+<head>
+utf8
+“viewport” content=width device-width initial scale 1.0
+<title> thought box /<title>
+<style>
+body{
+font family arial sans serif
+display:flex
+justify content:center
+align items:center
+height 100vh;
+background-color:f0f0f0
+thought box
+background color fff
+padding 20px
+border radius 10px
+box-shadow 00 10px rgba(0,0,0,0.1);
+display 
+width 300px
+text align center
+thought box input 
+width 80%
+padding:10px;
+margin-bottom:10px;
+border:1px solid ccc
+border-radius 5px
+thought box button
+padding 10px, 20px
+border-radius 5px
+background color 007bff
+color:fff
+cursor:pointer;
+thought box hover button
+background color 0056b3
+thought display 
+margin-top 20px;
+font-size 1.2em
+color 333
+<style/>
+</head>
+<body>
+<div class= “thought box”
+input type= “text” id=”thought input” 
+click on button display thought>submit</button>
+div class thought display id=”thought display
+</div>
+<script>
+display thought
+thought input=document.get element by id (‘thought input).value
+thought display=document.get element by id(‘thought display’)
+thought display.text content=thought input 
+<script>
+</body>
+</html>
+<sub heading.html>
+black thought box
+thought box for black night riders
+<doc type.html>
+<html lang “en”>
+<head>
+utf8
+“viewport” content=width device-width initial scale 1.0
+<title> thought box /<title>
+<style>
+body{
+font family arial sans serif
+display: flex
+justify content:center
+align items:center
+height 100vh;
+background-color:f0f0f0
+thought box 
+background color fff
+padding 20px
+border radius 10px
+box-shadow 00 10px rgba(0,0,0,0.1);
+display 
+width 300px
+text align center
+thought box input 
+width 80%
+padding:10px;
+margin-bottom:10px;
+border: 1px solid ccc
+border-radius 5px
+thought box button
+padding 10px, 20px
+border-radius 5px
+background color 007bff
+color:fff
+cursor: pointer;
+thought box hover button
+background color 0056b3
+thought display 
+margin-top 20px;
+font-size 1.2em
+color 333
+<style/>
+</head>
+<body>
+<div class= “thought box”
+input type= “text” id=”thought input” 
+click on button display thought>submit</button>
+div class thought display id=”thought display
+</div>
+<script>
+display thought
+thought input=document.get element by id (‘thought input) .value
+thought display=document.get element by id(‘thought display’)
+thought display.text content= thought input
+<script>
+</body>
+</html>
+<sub heading.html>
+white box
+thought box for white transit angels 
+<doc type.html>
+<html lang “en”>
+<head>
+utf8
+“viewport” content=width device-width initial scale 1.0
+<title> thought box /<title>
+<style>
+body{
+font family arial sans serif
+display:flex
+justify content:center
+align items:center
+height 100vh;
+background-color:f0f0f0
+thought box 
+background color fff
+padding 20px
+border radius 10px
+box-shadow 00 10px rgba(0,0,0,0.1);
+display 
+width 300px
+text align center
+thought box input 
+width 80%
+padding:10px;
+margin-bottom: 10px;
+border:1px solid ccc
+border-radius 5px
+thought box button
+padding 10px, 20px
+border-radius 5px
+background color 007bff
+color: fff
+cursor: pointer;
+thought box hover button
+background color 0056b3
+thought display 
+margin-top 20px;
+font-size 1.2em
+color 333
+<style/>
+</head>
+<body>
+<div class= “thought box”
+input type= “text” id=”thought input” 
+click on  button display thought>submit</button>
+div class thought display id=”thought display
+</div>
+<script>
+display thought
+thought input=document.get element by id (‘thought input).value
+thought display=document.get element by id(‘thought display’)
+thought display.text content= thought input
+<script>
+</body>
+</html>
 return filename
